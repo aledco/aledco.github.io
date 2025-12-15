@@ -1,2 +1,2 @@
-# aledco.github.io
-Github Pages
+# Aledco Home
+Home website of Aledco.
